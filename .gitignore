@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+db_scripts/
+logs/
+config.yaml
